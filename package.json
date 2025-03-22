@@ -20,5 +20,10 @@
   "homepage": "https://github.com/Paymir121/js_test#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "helpers": "^0.0.6",
+    "leaflet": "^1.9.4"
   }
 }
