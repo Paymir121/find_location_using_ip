@@ -17,3 +17,4 @@ node_modules/
 .cash/
 dist/
 build/
+.idea/
